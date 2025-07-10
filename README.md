@@ -25,8 +25,22 @@ A simple Python program that reads a student’s score (0–100) and prints the 
 
 ## Usage
 
-1. **Clone** or **download** this repository.
-2. Open a terminal in the project folder.
-3. Run the Python script:
-   ```bash
-   python grading_clean.pyq
+1. Run the program.
+2. Enter your score when prompted.
+3. The program will display your grade.
+
+---
+
+## Example
+
+```bash
+$ python grading_clean.py
+Enter your score: 87
+Grade: A
+```
+
+---
+
+## Author
+
+This project was created by **bigclinton002** as a Computer Science assignment.
